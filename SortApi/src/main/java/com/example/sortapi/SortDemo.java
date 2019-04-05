@@ -49,7 +49,7 @@ public class SortDemo {
         list.add(p1);
         list.add(p2);
         list.add(p3);
-        Person[] listToArray =  list.toArray(new Person[0]); //new Person[0] 此参数会强转
+        Person[] listToArray =  list.toArray(new Person[list.size()]); //new Person[0] 此参数会强转
         Arrays.sort(listToArray);
         System.out.println("str arr after sorted : ");
         for (Person person : listToArray) {

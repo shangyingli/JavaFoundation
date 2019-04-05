@@ -73,6 +73,11 @@ public class ReverseDigit {
         return res;
     }
 
+    /**
+     * 每次对低位元素 * 10，并加上次低位元素
+     * @param n
+     * @return
+     */
     private int revserseNormal(int n) {
         int result = 0;
         while (n > 0) {
