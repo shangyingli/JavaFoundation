@@ -103,7 +103,7 @@ public class LeetCode {
 
     /**
      * 使用两个指针遍历并交换
-     * 将字符串转化反转
+     * 将字符串反转
      * @param str
      * @return
      */

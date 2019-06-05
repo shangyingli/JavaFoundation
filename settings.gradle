@@ -1,1 +1,1 @@
-include ':app', ':HideAndOveride', ':collection', ':reflect', ':ConcurrentBase', ':annotation', ':SortApi', ':bitComputator', ':AlgorithmPractice'
+include ':app', ':HideAndOveride', ':collection', ':reflect', ':ConcurrentBase', ':annotation', ':SortApi', ':bitComputator', ':AlgorithmPractice', ':StringDemo', ':StackoverFlowDemo', ':ClassloaderDemo'

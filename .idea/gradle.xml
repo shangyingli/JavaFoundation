@@ -9,9 +9,12 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/AlgorithmPractice" />
+            <option value="$PROJECT_DIR$/ClassloaderDemo" />
             <option value="$PROJECT_DIR$/ConcurrentBase" />
             <option value="$PROJECT_DIR$/HideAndOveride" />
             <option value="$PROJECT_DIR$/SortApi" />
+            <option value="$PROJECT_DIR$/StackoverFlowDemo" />
+            <option value="$PROJECT_DIR$/StringDemo" />
             <option value="$PROJECT_DIR$/annotation" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/bitComputator" />

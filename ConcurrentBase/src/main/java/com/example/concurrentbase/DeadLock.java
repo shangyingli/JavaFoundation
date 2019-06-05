@@ -40,7 +40,7 @@ public class DeadLock {
     public class Thread02 extends Thread{
         private Object resource01;
         private Object resource02;
-        public Thread02(Object resource01, Object resource02) {
+        public Thread02(Object resource01,  Object resource02) {
             this.resource01 = resource01;
             this.resource02 = resource02;
         }
